@@ -1,0 +1,9 @@
+# Step 1: Overlapping-Label Leakage Validation
+# Minimal dependencies to run the synthetic leakage proof experiment
+
+purgedcv>=0.2.0
+scikit-learn>=1.0
+numpy>=1.18
+pandas>=1.2
+matplotlib>=3.3  # Optional: for visualization
+pytest>=6.0      # For automated tests
